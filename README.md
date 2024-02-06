@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muriithisk
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning Htmls,css ,js,and react.
+- 🌱 I’m currently learning Htmls,css ,js,and reactjs and ruby on rails.
 - 💞️ I’m looking to collaborate on more projects 
 - 📫 How to reach me; stephenkaruri7@gmail.com
 - 😎Lets Code — coding is fun!
